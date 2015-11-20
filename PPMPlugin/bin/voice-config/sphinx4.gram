@@ -1,0 +1,18 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar hello;
+
+public <cismon> = sis mon;
+public <status> = p p m status;
+public <usage> = p p m usage;
+public <version> = p p m version;
+public <exception> = p p m exception;
+public <uninstall> = p p m un install;
+public <install> = p p m setup;
+public <cancel> = cancel work;
+public <yes> = yes;
+public <no> = no;
